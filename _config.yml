@@ -1,0 +1,6 @@
+# Site settings
+title: Microsite Template
+url: "https://www.studieren-ohne-grenzen.org"
+baseurl: "/microsite"
+
+exclude: []
